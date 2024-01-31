@@ -1,2 +1,1 @@
-# programmingportfolio
-symonisthebest
+# Symon Kim's Programming Portfolio
