@@ -13,4 +13,4 @@ OOP graphical game with sound and keyboard/mouse listeners
 
 ![Gameplay](https://github.com/9704244/programmingportfolio/blob/main/images/SG1.png?raw=true)
 
-[Source Code](https://github.com/9704244/programmingportfolio/blob/main/src/SpaceGame.zip)
+[Source Code]([src/SpaceGame.zip](https://github.com/9704244/programmingportfolio/raw/main/src/SpaceGame.zip)https://github.com/9704244/programmingportfolio/raw/main/src/SpaceGame.zip)
