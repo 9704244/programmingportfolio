@@ -21,7 +21,5 @@ OOP graphical game with sound and keyboard/mouse listeners
 [Source Code](https://github.com/9704244/programmingportfolio/blob/main/src/UnpredictablePong.zip)
 
 ### EthchASketch
-Instructions: Use W,A,S,D, or left, right, up or down arrow keys to sketch. Press the mouse when you're down to take a screenshot
-
 ![Gameplay](https://github.com/9704244/programmingportfolio/blob/main/images/EtchASketch1.png)
 [Source Code](https://github.com/9704244/programmingportfolio/blob/main/src/etchASketch.zip)
