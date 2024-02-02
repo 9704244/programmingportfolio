@@ -17,26 +17,26 @@ OOP graphical game with sound and keyboard/mouse listeners
 
 ### Unpredictable Pong
 
-![Gameplay](https://github.com/9704244/programmingportfolio/blob/main/images/Pong1.png)
+![Gameplay](https://github.com/9704244/programmingportfolio/blob/main/images/Pong1.png?raw=true)
 
 [Source Code](https://github.com/9704244/programmingportfolio/blob/main/src/UnpredictablePong.zip)
 
 ### EthchASketch
 Instructions: Use W,A,S,D, or left, right, up or down arrow keys to sketch. Press the mouse when you're down to take a screenshot
 
-![Gameplay](https://github.com/9704244/programmingportfolio/blob/main/images/EtchASketch1.png)
+![Gameplay](https://github.com/9704244/programmingportfolio/blob/main/images/EtchASketch1.png?raw=true)
 
 [Source Code](https://github.com/9704244/programmingportfolio/blob/main/src/etchASketch.zip)
 
 ### Calculator
 Instructions: Use the mouse and click on the buttons, or use the keyboard for input.
 
-![Gameplay](https://github.com/9704244/programmingportfolio/blob/main/images/Calculator.png)
+![Gameplay](https://github.com/9704244/programmingportfolio/blob/main/images/Calculator.png?raw=true)
 
 [Source Code](https://github.com/9704244/programmingportfolio/blob/main/src/CalculatorKeyboard.zip)
 
 ### Driving Cars
 
-![Gameplay](https://github.com/9704244/programmingportfolio/blob/main/images/Cars.png)
+![Gameplay](https://github.com/9704244/programmingportfolio/blob/main/images/Cars.png?raw=true)
 
 [Source Code](https://github.com/9704244/programmingportfolio/blob/main/src/DriveCars.zip)
