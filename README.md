@@ -27,3 +27,10 @@ Instructions: Use W,A,S,D, or left, right, up or down arrow keys to sketch. Pres
 ![Gameplay](https://github.com/9704244/programmingportfolio/blob/main/images/EtchASketch1.png)
 
 [Source Code](https://github.com/9704244/programmingportfolio/blob/main/src/etchASketch.zip)
+
+### Calculator
+Instructions: Use the mouse and click on the buttons, or use the keyboard for input.
+
+![Gameplay](https://github.com/9704244/programmingportfolio/blob/main/images/Calculator.png)
+
+[Source Code](https://github.com/9704244/programmingportfolio/blob/main/src/CalculatorKeyboard.zip)
