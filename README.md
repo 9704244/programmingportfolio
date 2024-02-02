@@ -2,7 +2,7 @@
 Skyline High School's Computer Programming 1-2
 
 ## USOE Certifications
-* [Computer Programming 1] (https://github.com/9704244/programmingportfolio/blob/main/Certificates/CompProg1Cert.pdf)
+* [Computer Programming 1](https://github.com/9704244/programmingportfolio/blob/main/Certificates/CompProg1Cert.pdf.zip)
 
 ## Group Project (2023-2024)
 
