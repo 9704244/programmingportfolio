@@ -11,6 +11,8 @@ Contact Info: syfire7@gmail.com
 
 ![Gameplay](https://github.com/9704244/programmingportfolio/blob/main/images/SealGame.png)
 
+This game comprises of a playable seal character that has been swept away from his family. The goal of this game is to return to your family, with many twists and turns along the way!
+
 [Github Repository (AKA all source code, image files, etc.)](https://github.com/akiaxin/creativename.git)
 
 ## Individual Projects (2023-2024)
@@ -21,8 +23,6 @@ OOP graphical game with sound and keyboard/mouse listeners
 ![Gameplay](https://github.com/9704244/programmingportfolio/blob/main/images/SG1.png?raw=true)
 
 [Source Code](https://github.com/9704244/programmingportfolio/raw/main/src/SpaceGame.zip)
-
-This game comprises of a playable seal character that has been swept away from his family. The goal of this game is to return to your family, with many twists and turns along the way!
 ### Unpredictable Pong
 
 ![Gameplay](https://github.com/9704244/programmingportfolio/blob/main/images/Pong1.png?raw=true)
