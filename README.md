@@ -22,6 +22,7 @@ OOP graphical game with sound and keyboard/mouse listeners
 
 [Source Code](https://github.com/9704244/programmingportfolio/raw/main/src/SpaceGame.zip)
 
+This game comprises of a playable seal character that has been swept away from his family. The goal of this game is to return to your family, with many twists and turns along the way!
 ### Unpredictable Pong
 
 ![Gameplay](https://github.com/9704244/programmingportfolio/blob/main/images/Pong1.png?raw=true)
