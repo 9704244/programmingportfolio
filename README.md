@@ -9,6 +9,8 @@ Contact Info: syfire7@gmail.com
 
 ### The Surreal Ordeal of the Seal
 
+![Gameplay](https://github.com/9704244/programmingportfolio/blob/main/images/SealGame.png)
+
 [Github Repository (AKA all source code, image files, etc.)](https://github.com/akiaxin/creativename.git)
 
 ## Individual Projects (2023-2024)
