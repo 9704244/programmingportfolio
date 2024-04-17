@@ -1,6 +1,6 @@
 # Symon Kim's Programming Portfolio 2023-2024
 Skyline High School's Computer Programming 1-2
-
+Contact Info: syfire7@gmail.com
 ## USOE Certifications
 * [Computer Programming 1](https://github.com/9704244/programmingportfolio/blob/main/Certificates/CompProg1Cert.pdf.zip)
 
