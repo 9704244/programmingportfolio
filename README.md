@@ -7,6 +7,10 @@ Contact Info: syfire7@gmail.com
 
 ## Group Project (2023-2024)
 
+### The Surreal Ordeal of the Seal
+
+[Github Repository (AKA all source code, image files, etc.)](https://github.com/akiaxin/creativename.git)
+
 ## Individual Projects (2023-2024)
 
 ### SpaceGame
@@ -41,7 +45,3 @@ Instructions: Use the mouse and click on the buttons, or use the keyboard for in
 ![Gameplay](https://github.com/9704244/programmingportfolio/blob/main/images/Cars.png?raw=true)
 
 [Source Code](https://github.com/9704244/programmingportfolio/blob/main/src/DriveCars.zip)
-
-### The Surreal Ordeal of the Seal
-
-[Github Repository (AKA all source code, image files, etc.)](https://github.com/akiaxin/creativename.git)
