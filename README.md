@@ -4,6 +4,7 @@ Skyline High School's Computer Programming 1-2
 Contact Info: syfire7@gmail.com
 ## USOE Certifications
 * [Computer Programming 1](https://github.com/9704244/programmingportfolio/blob/main/Certificates/CompProg1Cert.pdf.zip)
+* [Computer Programming 2 Python](https://github.com/9704244/programmingportfolio/blob/main/Certificates/SKPythonCertificate.pdf)
 
 ## Group Project (2023-2024)
 
