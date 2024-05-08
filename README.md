@@ -5,6 +5,7 @@ Contact Info: syfire7@gmail.com
 ## USOE Certifications
 * [Computer Programming 1](https://github.com/9704244/programmingportfolio/blob/main/Certificates/CompProg1Cert.pdf.zip)
 * [Computer Programming 2 Python](https://github.com/9704244/programmingportfolio/blob/main/Certificates/SKPythonCertificate.pdf)
+* [Computer Programming 2 Python](https://github.com/9704244/programmingportfolio/blob/main/Certificates/SKJavaCertificate.pdf)
 
 ## Group Project (2023-2024)
 
